@@ -1,3 +1,4 @@
+复制粘贴即可查看https://cartoon-website-mauve.vercel.app/
 # 童年回忆 - 响应式卡通视频展示平台 📺
 
 这是一个基于纯原生前端技术栈（Vanilla Web）开发的交互式视频展示网站。
